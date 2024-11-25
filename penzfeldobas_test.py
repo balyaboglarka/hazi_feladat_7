@@ -13,8 +13,8 @@ class TestTC(object):
         options = Options()
         options.add_argument('--disable-search-engine-choice-screen')
         options.add_experimental_option("detach", True)
-        self.browser = webdriver.Chrome(options=options)
         options.add_argument('--headless')
+        self.browser = webdriver.Chrome(options=options)
         self.browser.maximize_window()
         self.browser.get(URL)
 
