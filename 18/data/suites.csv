@@ -1,8 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","689","test_helytelen","","Mon Nov 25 17:43:25 GMT 2024","passed","Mon Nov 25 17:43:25 GMT 2024","TestTC","email_test","",""
-"","4208","test_tc1","","Mon Nov 25 17:43:28 GMT 2024","passed","Mon Nov 25 17:43:32 GMT 2024","TestTC","penzfeldobas_test","",""
-"","162","test_nem_szamok","","Mon Nov 25 17:43:34 GMT 2024","passed","Mon Nov 25 17:43:34 GMT 2024","TestTC","teglalap_test","",""
-"","161","test_helyes","","Mon Nov 25 17:43:33 GMT 2024","passed","Mon Nov 25 17:43:33 GMT 2024","TestTC","teglalap_test","",""
-"","209","test_helyes","","Mon Nov 25 17:43:27 GMT 2024","passed","Mon Nov 25 17:43:27 GMT 2024","TestTC","email_test","",""
-"","220","test_ures","","Mon Nov 25 17:43:35 GMT 2024","passed","Mon Nov 25 17:43:35 GMT 2024","TestTC","teglalap_test","",""
-"","115","test_ures","","Mon Nov 25 17:43:26 GMT 2024","passed","Mon Nov 25 17:43:26 GMT 2024","TestTC","email_test","",""
